@@ -1,0 +1,1 @@
+This Program tracks calories consumed throughout the day by performing a number of functions. It will store the food consumed and save the serving size and calories for next time to create a living database of food items. It let's you deduct calories from exercise, return your total calories so far and reset the total back to 0 for the next day.
